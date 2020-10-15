@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>matklad</title>
+    <description>Yet another programming blog by Aleksey Kladov aka matklad.
+</description>
+    <link>https://matklad.github.io//</link>
+    <atom:link href="https://matklad.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 15 Oct 2020 01:20:17 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Oct 2020 01:20:17 +0000</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Study of std::io::Error</title>
+        <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+        <link>https://matklad.github.io//2020/10/15/study-of-std-io-error.html</link>
+        <guid isPermaLink="true">https://matklad.github.io//2020/10/15/study-of-std-io-error.html</guid>
+      </item>
+    
+      <item>
+        <title>Fast Thread Locals In Rust</title>
+        <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+        <link>https://matklad.github.io//2020/10/03/fast-thread-locals-in-rust.html</link>
+        <guid isPermaLink="true">https://matklad.github.io//2020/10/03/fast-thread-locals-in-rust.html</guid>
+      </item>
+    
+      <item>
+        <title>Why Not Rust?</title>
+        <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+        <link>https://matklad.github.io//2020/09/20/why-not-rust.html</link>
+        <guid isPermaLink="true">https://matklad.github.io//2020/09/20/why-not-rust.html</guid>
+      </item>
+    
+      <item>
+        <title>Your Language Sucks, It Doesn&amp;#8217;t Matter</title>
+        <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+        <link>https://matklad.github.io//2020/09/13/your-language-sucks.html</link>
+        <guid isPermaLink="true">https://matklad.github.io//2020/09/13/your-language-sucks.html</guid>
+      </item>
+    
+      <item>
+        <title>Rust in 2021</title>
+        <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+        <link>https://matklad.github.io//2020/09/12/rust-in-2021.html</link>
+        <guid isPermaLink="true">https://matklad.github.io//2020/09/12/rust-in-2021.html</guid>
+      </item>
+    
+      <item>
+        <title>Code Smell: Concrete Abstraction</title>
+        <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+        <link>https://matklad.github.io//2020/08/15/concrete-abstraction.html</link>
+        <guid isPermaLink="true">https://matklad.github.io//2020/08/15/concrete-abstraction.html</guid>
+      </item>
+    
+      <item>
+        <title>Who Builds the Builder?</title>
+        <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+        <link>https://matklad.github.io//2020/08/12/who-builds-the-builder.html</link>
+        <guid isPermaLink="true">https://matklad.github.io//2020/08/12/who-builds-the-builder.html</guid>
+      </item>
+    
+      <item>
+        <title>Things I Have Learned About Life</title>
+        <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+        <link>https://matklad.github.io//2020/08/11/things-I-have-learned-about-life.html</link>
+        <guid isPermaLink="true">https://matklad.github.io//2020/08/11/things-I-have-learned-about-life.html</guid>
+      </item>
+    
+      <item>
+        <title>Two Beautiful Rust Programs</title>
+        <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+        <link>https://matklad.github.io//2020/07/15/two-beautiful-programs.html</link>
+        <guid isPermaLink="true">https://matklad.github.io//2020/07/15/two-beautiful-programs.html</guid>
+      </item>
+    
+      <item>
+        <title>From Pratt to Dijkstra</title>
+        <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+        <link>https://matklad.github.io//2020/04/15/from-pratt-to-dijkstra.html</link>
+        <guid isPermaLink="true">https://matklad.github.io//2020/04/15/from-pratt-to-dijkstra.html</guid>
+      </item>
+    
+  </channel>
+</rss>
